@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.audio.bestoftheleft" name="AM950 Minnesota" version="1.0.0" provider-name="leopheard">
+<addon id="plugin.audio.bestoftheleft" name="Best Of The Left" version="1.0.0" provider-name="leopheard">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.xbmcswift2" version="2.4.0"/>
@@ -22,7 +22,7 @@
     <website>http://www.am950radio.com/</website>
     <audio_guide></audio_guide>
         	<assets>
-			<icon>resources/media/icon1.jpg</icon>
+			<icon>resources/media/icon1.png</icon>
 			<fanart>resources/media/fanart.jpg</fanart>
 			<screenshot>resources/media/icon1.png</screenshot>
 			<screenshot>resources/media/screen1.jpg</screenshot>
